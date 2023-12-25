@@ -88,3 +88,14 @@ target/
 
 # Mypy cache
 .mypy_cache/
+/src/features/Helper/__pycache__
+/docs
+/models
+/notebooks
+/references
+/reports
+/src/features/__pycache__
+/src/features/.gitkeep
+/src/models/__pycache__
+/src/visualization/trees
+/src/visualization/.gitkeep
